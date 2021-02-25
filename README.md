@@ -1,2 +1,2 @@
 # discord-tools
-things i've made for use on discord
+things for use on discord
